@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.log
+
+# generated attendance/emotion output (produced at runtime)
+emotion_times.csv
+people_times.csv
+
+.DS_Store
